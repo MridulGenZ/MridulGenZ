@@ -11,23 +11,18 @@
 
 
 ```javascript
-const vanika = {
-    pronouns: "She/Her",
-    code: ["JavaScript", "HTML", "CSS", "Rest Client", "Express"],
-    askMeAbout: ["Discord Bot Development", "Web Development"],
+const mridul = {
+    pronouns: "He/Him",
+    code: ["JavaScript", "Node.JS", "HTML", "CSS", "Python"],
+    askMeAbout: ["Discord Bot Development", "Web Development", "App Development"],
     technologies: {
         backend: {
             js: ["Node", "Express"],
         },
         frontend: ["HTML", "CSS"]
     },
-    database: ["mongoose", "quickmongo", "quick.db", "better-sqlite3"],
-    techCommunities: {
-        owner: "Artic Development",
-        manager: "October HQ",
-        supportie: "Groot Music"
-    },
-    currentFocus: "Artic & Groot Bot",
+    database: ["mongoose", "quickmongo", "quick.db", "json"],
+    currentFocus: "Flutter and Python",
     funFact: "You really did wasted a lot of time here."
 }
 ```
