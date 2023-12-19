@@ -29,7 +29,7 @@ const mridul = {
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MridulGenZ&theme=dark&hide_border=false&include_all_commits=true&count_private=true) ![Mridul's GitHub stats](https://github-readme-stats.vercel.app/api?username=MridulGenZ&show_icons=true&theme=transparent)
+![Mridul's GitHub stats](https://github-readme-stats.vercel.app/api?username=MridulGenZ&show_icons=true&theme=transparent)
 
 
 ---
