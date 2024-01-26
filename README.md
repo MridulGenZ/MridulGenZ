@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&pause=1000&color=FFEDFF&random=false&width=435&lines=Hello!+I'm+Mridul...;Full-Stack+Developer+With+MERN+Stack;UI%2FUX+Designer)](https://git.io/typing-svg)
 <img src="https://lanyard.cnrad.dev/api/1200558164844740796" class="center">
+
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=MridulGenZ&label=Profile%20Visitors&color=12&pretty=false" />
 </a>
