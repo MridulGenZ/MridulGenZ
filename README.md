@@ -1,6 +1,6 @@
 <h1 align="left">Hey There :wave:, I'm Mridul</h1>
 <img src="https://lanyard.cnrad.dev/api/1200558164844740796" class="center">
-<br>
+
 
 
 # 💫 About Me:
