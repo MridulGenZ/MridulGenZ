@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=1E1E21FF&size=21&width=500&lines=Hello!+I'm+Mridul...;A+Software+Developer...;A+full-stack+developer+and+machine+learning+enthusiast..;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=OD1117&size=21&width=500&lines=Hello!+I'm+Mridul...;A+Software+Developer...;A+full-stack+developer+and+machine+learning+enthusiast..;)](https://git.io/typing-svg)
 <img src="https://lanyard.cnrad.dev/api/1200558164844740796" class="center">
 
 
