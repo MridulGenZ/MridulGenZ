@@ -1,4 +1,4 @@
-<h1 align="center">Hi :wave:, I'm Mridul</h1>
+<h1 align="left">Hi :wave:, I'm Mridul</h1>
 <img src="https://lanyard.cnrad.dev/api/1200558164844740796" class="center">
 <br>
 
