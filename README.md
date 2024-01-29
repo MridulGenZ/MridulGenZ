@@ -2,6 +2,8 @@
     <img src="https://komarev.com/ghpvc/?username=MridulGenZ&style=flat&color=blue" alt="" align="center"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&pause=1000&color=FFEDFF&random=false&width=435&lines=Hello!+I'm+Mridul...;Full-Stack+Developer+With+MERN+Stack;UI%2FUX+Designer)](https://git.io/typing-svg)
+
+[![My Github Stats](https://github-stats-alpha.vercel.app/api?username=mridulgenz&cc=000&tc=fff&ic=fff&bc=000 "My Stats")](https://github-stats-alpha.vercel.app/api?username=thedigitalchief&cc=000&tc=fff&ic=fff&bc=000 "My Github Stats")
 <img src="https://lanyard.cnrad.dev/api/1200558164844740796" class="center">
 </div>
 
