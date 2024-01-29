@@ -4,7 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&pause=1000&color=FFEDFF&random=false&width=435&lines=Hey+There!+I'm+Mridul...;A+Full-Stack+Developer+With+MERN+Stack;UI%2FUX+Designer)](https://git.io/typing-svg)
 
 [![My Github Stats](https://github-stats-alpha.vercel.app/api?username=mridulgenz&cc=000&tc=fff&ic=fff&bc=000 "My Stats")](https://github-stats-alpha.vercel.app/api?username=thedigitalchief&cc=000&tc=fff&ic=fff&bc=000 "My Github Stats")
-<img src="https://lanyard.cnrad.dev/api/1200558164844740796" class="center">
 </div>
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&pause=1000&color=FFEDFF&multiline=true&repeat=false&random=false&width=435&lines=My+Tech+Stack:)](https://git.io/typing-svg) 
